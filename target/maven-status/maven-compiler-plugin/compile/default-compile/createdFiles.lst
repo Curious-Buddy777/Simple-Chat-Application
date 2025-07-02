@@ -1,0 +1,7 @@
+com\alibou\websocket\ChatApplication.class
+com\alibou\websocket\chat\MessageType.class
+com\alibou\websocket\chat\ChatMessage.class
+com\alibou\websocket\chat\ChatController.class
+com\alibou\websocket\config\WebSocketConfig.class
+com\alibou\websocket\config\WebSocketEventListener.class
+com\alibou\websocket\chat\ChatMessage$ChatMessageBuilder.class
